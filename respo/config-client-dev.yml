@@ -1,4 +1,4 @@
 foo: version 2
-foo2: foo2 new version RabbitMQ 4
+foo2: foo2 new version RabbitMQ 5
 server:
   port: 18100
