@@ -1,4 +1,4 @@
 foo: version 2
-foo2: foo2 new version RabbitMQ 1
+foo2: foo2 new version RabbitMQ 11
 server:
   port: 18100
